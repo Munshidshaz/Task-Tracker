@@ -1,0 +1,44 @@
+[
+   {
+      "id": 2,
+      "description": "Learn Python basics",
+      "status": "done",
+      "createat": "2025-06-24 15:28:55",
+      "updateat": "2025-06-24 15:37:43"
+   },
+   {
+      "id": 3,
+      "description": "Unit testing with pytest and mocks",
+      "status": "pending",
+      "createat": "2025-06-24 15:32:53",
+      "updateat": "2025-06-24 15:33:35"
+   },
+   {
+      "id": 4,
+      "description": "Cybersecurity fundamentals (e.g., OWASP Top 10)",
+      "status": "done",
+      "createat": "2025-06-24 15:34:00",
+      "updateat": "2025-06-24 15:37:51"
+   },
+   {
+      "id": 5,
+      "description": "Explore core cloud services (e.g., AWS EC2, S3, Lambda)",
+      "status": "done",
+      "createat": "2025-06-24 15:34:25",
+      "updateat": "2025-06-24 15:37:57"
+   },
+   {
+      "id": 6,
+      "description": "Understand DevOps principles and set up a CI/CD pipeline",
+      "status": "done",
+      "createat": "2025-06-24 15:34:32",
+      "updateat": "2025-06-24 15:38:02"
+   },
+   {
+      "id": 7,
+      "description": "Build a practical automation script (e.g., for file management)",
+      "status": "pending",
+      "createat": "2025-06-24 15:34:38",
+      "updateat": "2025-06-24 15:34:38"
+   }
+]
